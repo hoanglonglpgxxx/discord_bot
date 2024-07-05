@@ -138,4 +138,3 @@ client.on('messageCreate', async message => {
 });
 
 client.login(TOKEN);
-console.log(12312312);
